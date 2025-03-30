@@ -1,0 +1,27 @@
+﻿setting;degrader number;degrader (mg/cm2);main isotopes
+heavy;1;3600;206Au
+heavy;2;3670;204Pt
+heavy;3;3710;203Pt
+heavy;4;3780;202Pt,201Ir
+heavy;5;3740;202Ir
+heavy;6;3805;200Ir,200Os
+heavy;7;3845;199Os
+heavy;8;3655;199Ir
+heavy;9;3890;198Os
+heavy;10;3935;197Os
+heavy;11;3920;197Re
+medium;1;3735;198Ir
+medium;2;3720;198Os
+medium;3;3760;197Os
+medium;4;3790;196Re
+medium;5;3835;195Re
+medium;6;3870;194Re,194W
+medium;7;3910;193W
+medium;8;3950;192W
+medium;9;3990;191Ta
+medium;10;4030;190Ta
+medium;11;4070;189Ta
+medium;12;4120;188Ta
+light;1;3970;190Ta
+light;2;3970;189Ta
+light;3;4020;188Ta
