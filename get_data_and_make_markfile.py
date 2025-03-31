@@ -20,7 +20,7 @@ yield_unit_conversion = 0.0014 * 3600
 wideness_correct_value = 14
 
 # Markfile folder name
-markfile_folder = "20250330_markfiles_N126_v2"
+markfile_folder = "20250331_markfiles_N126_v3"
 # Turn number in markfile
 turn_number = -1
 # Charge state of ions in markfile
