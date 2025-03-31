@@ -124,6 +124,8 @@ for setting in unique_settings:
                         yields_main.append([isotope, this_yield])
                     else:
                         yields_overlapping.append([isotope, this_yield])
+                elif isotope in these_isotopes_main:
+                    print("Warning: too low yield for " + isotope + " at " + str(this_yield))
             
             setting_results[this_degrader_number] = {"yields_main" : yields_main,
                                                      "yields_overlapping" : yields_overlapping,
